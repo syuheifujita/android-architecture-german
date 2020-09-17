@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">android-architecture-german</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment_first">Hello blank fragment first</string>
+    <string name="hello_blank_fragment_second">Hello blank fragment second</string>
 </resources>
