@@ -38,4 +38,3 @@ class SecondFragment : Fragment() {
         }
     }
 }
-
